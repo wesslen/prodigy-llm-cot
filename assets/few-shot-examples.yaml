@@ -1,0 +1,9 @@
+- text: "A patient was prescribed Magnesium hydroxide 400mg/5ml suspension PO of total 30ml bid for the next 5 days."
+  entities:
+    DRUG: ['Magnesium hydroxide']
+    STRENGTH: ['400mg/5ml']
+    FORM: ['suspension']
+    ROUTE: ['PO']
+    DOSAGE: ['30ml']
+    FREQUENCY: ['bid']
+    DURATION: ['for the next 5 days']
