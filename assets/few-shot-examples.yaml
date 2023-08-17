@@ -7,3 +7,13 @@
     DOSAGE: ['30ml']
     FREQUENCY: ['bid']
     DURATION: ['for the next 5 days']
+
+- text: "Prescribe aspirin 300mg tablet once a day p.o. (by mouth) for 3 days."
+  entities:
+    DRUG: ['aspirin']
+    STRENGTH: ['300mg']
+    FORM: ['tablet']
+    ROUTE: ['p.o. (by mouth)']
+    DOSAGE: ['300mg']
+    FREQUENCY: ['once a day']
+    DURATION: ['for 3 days']
